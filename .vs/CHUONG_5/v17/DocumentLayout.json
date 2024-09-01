@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|C:\\Users\\allec\\source\\repos\\CHUONG_5\\formqlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|solutionrelative:formqlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|c:\\users\\allec\\source\\repos\\chuong_5\\formqlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|solutionrelative:formqlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|C:\\Users\\allec\\source\\repos\\CHUONG_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|C:\\Users\\allec\\source\\repos\\CHUONG_5\\formxoa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|solutionrelative:formxoa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|C:\\Users\\allec\\source\\repos\\CHUONG_5\\formthemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|solutionrelative:formthemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|C:\\Users\\allec\\source\\repos\\CHUONG_5\\formxoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|solutionrelative:formxoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|C:\\Users\\allec\\source\\repos\\CHUONG_5\\formsuasv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|solutionrelative:formsuasv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|C:\\Users\\allec\\source\\repos\\CHUONG_5\\formthemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|solutionrelative:formthemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|C:\\Users\\allec\\source\\repos\\CHUONG_5\\formsuasv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|solutionrelative:formsuasv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|C:\\Users\\allec\\source\\repos\\CHUONG_5\\formxoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|solutionrelative:formxoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|C:\\Users\\allec\\source\\repos\\CHUONG_5\\formqlsv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737E9A0E-2717-4B10-AA99-33F4837485EC}|CHUONG_5.csproj|solutionrelative:formqlsv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormSuaSV.cs",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormSuaSV.cs",
+              "RelativeDocumentMoniker": "FormSuaSV.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormSuaSV.cs",
+              "RelativeToolTip": "FormSuaSV.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T09:55:34.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormXoa.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormXoa.Designer.cs",
+              "RelativeDocumentMoniker": "FormXoa.Designer.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormXoa.Designer.cs",
+              "RelativeToolTip": "FormXoa.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T09:25:03.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormQLSV.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormQLSV.Designer.cs",
+              "RelativeDocumentMoniker": "FormQLSV.Designer.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormQLSV.Designer.cs",
+              "RelativeToolTip": "FormQLSV.Designer.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAADgv1cAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T08:38:10.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormXoa.cs",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormXoa.cs",
+              "RelativeDocumentMoniker": "FormXoa.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormXoa.cs",
+              "RelativeToolTip": "FormXoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:17:46.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormXoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormXoa.cs",
+              "RelativeDocumentMoniker": "FormXoa.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormXoa.cs [Design]",
+              "RelativeToolTip": "FormXoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:12:09.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormSuaSV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormSuaSV.cs",
+              "RelativeDocumentMoniker": "FormSuaSV.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormSuaSV.cs [Design]",
+              "RelativeToolTip": "FormSuaSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:01:44.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormThemSV.cs",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormThemSV.cs",
+              "RelativeDocumentMoniker": "FormThemSV.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormThemSV.cs",
+              "RelativeToolTip": "FormThemSV.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:58:45.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormThemSV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormThemSV.cs",
+              "RelativeDocumentMoniker": "FormThemSV.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormThemSV.cs [Design]",
+              "RelativeToolTip": "FormThemSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:52:16.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormQLSV.cs",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormQLSV.cs",
+              "RelativeDocumentMoniker": "FormQLSV.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormQLSV.cs",
+              "RelativeToolTip": "FormQLSV.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwHYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:26:24.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormQLSV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormQLSV.cs",
+              "RelativeDocumentMoniker": "FormQLSV.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\FormQLSV.cs [Design]",
+              "RelativeToolTip": "FormQLSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:15:14.564Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\CHUONG_5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:14:56.837Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

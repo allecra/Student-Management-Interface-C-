@@ -1,0 +1,13 @@
+C:\Users\allec\source\repos\CHUONG_5\bin\Debug\CHUONG_5.exe.config
+C:\Users\allec\source\repos\CHUONG_5\bin\Debug\CHUONG_5.exe
+C:\Users\allec\source\repos\CHUONG_5\bin\Debug\CHUONG_5.pdb
+C:\Users\allec\source\repos\CHUONG_5\obj\Debug\CHUONG_5.csproj.AssemblyReference.cache
+C:\Users\allec\source\repos\CHUONG_5\obj\Debug\CHUONG_5.FormQLSV.resources
+C:\Users\allec\source\repos\CHUONG_5\obj\Debug\CHUONG_5.FormSuaSV.resources
+C:\Users\allec\source\repos\CHUONG_5\obj\Debug\CHUONG_5.FormThemSV.resources
+C:\Users\allec\source\repos\CHUONG_5\obj\Debug\CHUONG_5.FormXoa.resources
+C:\Users\allec\source\repos\CHUONG_5\obj\Debug\CHUONG_5.Properties.Resources.resources
+C:\Users\allec\source\repos\CHUONG_5\obj\Debug\CHUONG_5.csproj.GenerateResource.cache
+C:\Users\allec\source\repos\CHUONG_5\obj\Debug\CHUONG_5.csproj.CoreCompileInputs.cache
+C:\Users\allec\source\repos\CHUONG_5\obj\Debug\CHUONG_5.exe
+C:\Users\allec\source\repos\CHUONG_5\obj\Debug\CHUONG_5.pdb
